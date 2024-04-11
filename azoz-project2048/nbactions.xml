@@ -1,0 +1,26 @@
+<actions>
+    <action>
+        <actionName>run</actionName>
+        <goals>
+            <goal>clean</goal>
+            <goal>javafx:run</goal>
+        </goals>
+    </action>
+    <action>
+        <actionName>jlink</actionName>
+        <goals>
+            <goal>clean</goal>
+            <goal>javafx:jlink</goal>
+        </goals>
+    </action>
+    <action>
+        <actionName>debug</actionName>
+        <goals>
+            <goal>clean</goal>
+            <goal>javafx:run@debug</goal>
+        </goals>
+        <properties>
+            <jpda.listen>true</jpda.listen>
+        </properties>
+    </action>
+</actions>

@@ -1,0 +1,57 @@
+/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/solimanazoz/Desktop/BlackJack/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'azoz-blackJack 1.0 API'
+-use
+-version
+-windowtitle
+'azoz-blackJack 1.0 API'
+g52445.atl.blackjack.controller
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.model
+g52445.atl.blackjack.view
+g52445.atl.blackjack.view
+g52445.atl.blackjack.view
+g52445.atl.blackjack.main
+/Users/solimanazoz/Desktop/BlackJack/src/main/java = 1600775360226
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/constant-values.html = 1601061570138
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/member-search-index.zip = 1601061570328
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/overview-tree.html = 1601061570241
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/index.html = 1601061570256
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/package-search-index.js = 1601061570303
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/package-search-index.zip = 1601061570321
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/type-search-index.zip = 1601061570324
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/index-all.html = 1601061570330
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/allpackages-index.html = 1601061570343
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/deprecated-list.html = 1601061570250
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/member-search-index.js = 1601061570326
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/script.js = 1601061570360
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/stylesheet.css = 1601061570358
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/overview-summary.html = 1601061570348
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/help-doc.html = 1601061570353
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/system-properties.html = 1601061570346
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/element-list = 1601061570072
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/allclasses-index.html = 1601061570340
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/type-search-index.js = 1601061570322
+/Users/solimanazoz/Desktop/BlackJack/target/site/apidocs/search.js = 1601061570363

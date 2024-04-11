@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"g52445.atl.asciipaint.controller"},{"l":"g52445.atl.asciipaint.main"},{"l":"g52445.atl.asciipaint.model"},{"l":"g52445.atl.asciipaint.view"}]

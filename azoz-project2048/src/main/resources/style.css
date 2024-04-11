@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color: #ede0c8;
+}
+
+.button {
+    -fx-min-height: 30;
+    -fx-max-height: 30;
+    -fx-font-size: 18;
+}
+
+VBox{
+    -fx-font-size: 30;
+}
